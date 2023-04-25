@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<database>
+  <security>
+    <uid>root</uid>
+    <pass>12glaedr12</pass>
+  </security>
+  <server>localhost</server>
+  <port>3306</port>
+  <dbname>studentManagerDB</dbname>
+</database>
